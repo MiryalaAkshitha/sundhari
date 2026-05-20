@@ -1,8 +1,11 @@
+import './App.css';
+
 function App() {
   return (
-    <div>
-      <h1>Sundhari</h1>
-      <p>My website is live 🚀</p>
+    <div className="App">
+      <header className="App-header">
+        <h3>Sundhari Vasthra is live 💌</h3>
+      </header>
     </div>
   );
 }
