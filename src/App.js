@@ -1,12 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h3>Sundhari Vasthra is live 💌</h3>
-      </header>
+    <div>
+      <h1>Sundhari</h1>
+      <p>My website is live 🚀</p>
     </div>
   );
 }
